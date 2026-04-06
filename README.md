@@ -1,0 +1,2 @@
+# SAMohawkCollegeGitHubActivity
+Repository created for Programming Fundamentals Assignment
