@@ -1,3 +1,7 @@
+#I HAVE A COMMENT
+#I HAVE BEEN HERE
+#I AM LEGION
+
 import random
 listlength = 0
 randomnum = 0
