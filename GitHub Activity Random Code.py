@@ -2,6 +2,9 @@
 #I HAVE BEEN HERE
 #I AM LEGION
 
+#It doesnt matter if you are a king or a chimney sweeper, everybody dances with the grim reaper
+
+
 import random
 listlength = 0
 randomnum = 0
